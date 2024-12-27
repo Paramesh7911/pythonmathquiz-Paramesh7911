@@ -1,4 +1,5 @@
 # pythonmathquiz-Paramesh7911
+This is an simple quiz game of 5 quesition in math made in thonny.
 ### HOW TO UPLOAD CODING:
 1. First download Thonny, if it is not available.
 2. If you cannot download it you can upload the code in online python like GBD compiler.
